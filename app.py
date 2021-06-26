@@ -8,3 +8,7 @@ app = Flask(__name__)
 @app.route('/')
 def hello_world():
     return 'Hello world'
+
+@app.route('about')
+def about_us():
+    return 'Welcome to our About Us page!!'
