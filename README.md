@@ -6,9 +6,12 @@ This analysis was created to provide W. Avy more information about temperature t
 ## Results:
 
 - Number of observations:
-- 
+-- There were a total of for the month of June while there were a toroal of observations for the month of December from all stations.
+- Summary Statistics temperature for the month:
+- Conclusion
 
 ## Summary:
 
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
 
+One additional query inspector to determine the columns available in the database 
