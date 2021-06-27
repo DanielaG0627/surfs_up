@@ -22,8 +22,7 @@ The below three key differences were observed when comparing June temperature re
     - The standard deviation for the temperature observations from December is 3.75 which means that 95% of the observations are between 63.54 and 78.54 degrees.
     This range of temperatures provide good weather for surf and ice cream!
 
-- Tables
-    The tables below show the summary statistics for June and December temperature observations.
+- The tables below show the summary statistics for June and December temperature observations.
     
     <img width="165" alt="Screen Shot 2021-06-27 at 2 39 53 PM" src="https://user-images.githubusercontent.com/17945476/123557156-5c92ff80-d75d-11eb-84f4-97bc8ccaed47.png">
     
