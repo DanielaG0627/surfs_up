@@ -6,7 +6,7 @@ This analysis was created to provide W. Avy more information about temperature t
 ## Results:
 
 - Number of observations:
--- There were a total of for the month of June while there were a toroal of observations for the month of December from all stations.
+    - There were a total of for the month of June while there were a toroal of observations for the month of December from all stations.
 - Summary Statistics temperature for the month:
 - Conclusion
 
